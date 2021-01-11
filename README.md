@@ -14,3 +14,6 @@ https://play.google.com/store/apps/details?id=com.archmate.arfoodies
 
 ## *Unity Project Package*
 https://drive.google.com/drive/folders/13ZEgNgEf6aAduOwwBt064rQPRcOtHPBw?usp=sharing
+
+## Tech Stack
+Unity Engine, AR Foundation, Firebase, Photoshop, C#
