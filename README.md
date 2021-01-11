@@ -1,7 +1,7 @@
 # ARFoodies
 Presenting Restaurant Menu's via Augmented Reality
 ARfoodies present your restaurant menu in a digital way, Now see the digital live menu in front of you as well as see your favorite food before you decide to eat, now you can interact with your menu and have a crazy contact less ordering experience in restaurants and cafes.
-It allows you 3D menu experiences.
+It allows you  a 3D food menu display experience.
 
 ## It will display a Covid19 precautionary video along with the menu
 
